@@ -10,7 +10,7 @@
 **About Me:**
 
 - I'm a passionnate UI Developer from France
-- I'm currently looking for an apprenticeship for my training with O'Clock which has already started.
+- I'm currently doing an apprenticeship at Sodexo for my training with O'Clock for 16 months.
 - I’m currently learning __NODE__ & __TypeScript__.
 - Fun-Fact: I was a baker before I became a web developer.
 - How to reach me: adleborgne03@gmail.com
@@ -26,8 +26,9 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
   <br />
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
